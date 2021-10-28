@@ -1,6 +1,6 @@
 # ThreadProject
 
-Inside this project simple demonstration of Multithreading present.
+Inside this project simple demonstration of Multithreading is present.
 
 Multithreading in Java is a process of executing multiple threads simultaneously.
 
